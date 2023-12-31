@@ -20,7 +20,7 @@ Include a link to a live demo of your project, if available.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-Ada890/Random-Advice-Generator.git
+    git clone https://github.com/Ada890/Random-Advice-Generator.git
     cd random-advice-generator
     ```
 
